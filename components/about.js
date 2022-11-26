@@ -36,7 +36,7 @@ function About() {
                     </div>
                 </div>
                 <div className='content_right'>
-                    <img src="/rick.gif" className='w-full sm:w-3/4'  />
+                    <img src="/rick.gif" className='w-full sm:w-3/4' alt="GIF" />
                 </div>
             </div>
         </div>
